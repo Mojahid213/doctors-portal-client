@@ -1,0 +1,27 @@
+.appointment-main{
+height: 600px;
+}
+
+.appointment-container {
+    height:430px;
+    width: 90%;
+    position:relative;
+   background-image: url('../../../images/AppointMentBg.png');
+}
+.appointment-container::before {
+    height:430px;
+    content:' ';
+    position: absolute;
+    top: 0;
+    background-color: #3A4256;
+    opacity: 0.9;
+    width: 100%;
+}
+.appointment-container img{
+    height: 550px;
+    transform: translateY(-120px);
+}
+.appointment-detail{
+    z-index: 5 !important;
+    color: white;
+}

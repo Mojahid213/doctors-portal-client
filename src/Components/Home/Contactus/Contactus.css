@@ -1,0 +1,18 @@
+.contact-section{
+height: 500px;
+margin-top: 7em;
+}
+.contact-div{
+    width: 80%;
+    background-image: url('../../../images/AppointMentBg.png');
+
+}
+.contact-info{
+    height: 500px;
+    background-color: #3A4256;
+    width: 100%;
+    opacity: 0.8;
+}
+.contact-text{
+
+}

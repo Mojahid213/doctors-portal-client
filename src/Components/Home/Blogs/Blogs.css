@@ -1,0 +1,7 @@
+.Blogs-section{
+    display: flex;
+    justify-content: center;
+}
+.Blogs-container{
+    width: 80%;
+}
